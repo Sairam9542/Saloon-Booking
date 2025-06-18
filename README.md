@@ -143,5 +143,5 @@ password
 
 **Sairam Ganapavarapu**  
 Java Full Stack Developer  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/sairamganapavarapu96/) | [GitHub](https://github.com/Sairam9542)
 
